@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SimpleAuth</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="parentKey">iout.chhatrachhorm.simpleauth.parent</string>
+    <string name="authTokenKey">iout.chhatrachhorm.simpleauth.parent.authtoken</string>
+    <string name="auth_name">iout.chhatrachhorm.simpleauth.parent.name</string>
+    <string name="auth_email">iout.chhatrachhorm.simpleauth.parent.email</string>
+    <string name="auth_phone">iout.chhatrachhorm.simpleauth.parent.phone</string>
+    <string name="welcome">Welcome %1$s</string>
+    <string name="logo">LOGO</string>
+    <string name="log_out">Log Out</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
